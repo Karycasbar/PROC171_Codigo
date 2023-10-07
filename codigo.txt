@@ -1,4 +1,6 @@
-      model.setAttribute("visible", true);
+https://raw.githubusercontent.com/whitehatjr/menu-card-app/main/black-circle.png
+-------------------------------------------------------------------------------
+model.setAttribute("visible", true);
 
       var ingredientsContainer = document.querySelector(`#main-plane-${dish.id}`);
       ingredientsContainer.setAttribute("visible", true);
